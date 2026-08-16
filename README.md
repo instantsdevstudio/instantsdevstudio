@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, we are InstantDev Studio ⚡
 
-<!--
-**instantsdevstudio/instantsdevstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> We build enterprise-grade, high-converting websites and full-stack web applications for growing businesses and startups.
 
-Here are some ideas to get you started:
+### 🛠️ What We Build
+- ⚡ **High-Speed Landing Pages** (React, Tailwind, Lovable, v0)
+- 🛍️ **D2C & Fast-Fashion Stores** (Interactive UI + WhatsApp Direct Checkout)
+- 💼 **Full-Stack Web Applications** (MERN: MongoDB, Express, React, Node)
+- 🔧 **Instant UI & Bug Diagnosis** (24–48hr turnaround)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📬 Connect With Us
+- 📸 **Instagram:** [@instantdevstudio](https://instagram.com/instantsdevstudio)
+- ✉️ **Email:** instantsdevstudio@gmail.com
+- 💬 **DM us on Instagram** for custom project quotes!
